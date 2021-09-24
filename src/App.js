@@ -62,7 +62,7 @@ export default() => {
               <footer>
                 Feito com <span role="imf" aria-aria-label="coração"> ❤️ </span> por Felipe Alves <br/>
                 Direitos de imagem para Netflix <br/>
-                Dados coletados do site Themoviedb.org <br/>
+                Dados coletados do site Themoviedb.org .<br/>
 
               </footer>
 
