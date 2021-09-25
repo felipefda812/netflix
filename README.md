@@ -1,11 +1,25 @@
+ # Netflix Estudo de Caso <h1>
+ 
+ <p align="justify">Olá pessoal, este projeto foi desenvolvido com a principal finalidade o estudo das tecnologias React, JavaScript, CSS e o consumo de APIs para os exibição dpos filmes e séries, foi um processo bem interessante onde diversos componentes e ações que temos na Netflix as vezes passam desapercebido, e quando botamos a mão na massa é possivel notar a complexidade em realizar tal ação <h3>
+</p>
+ 
+ 
+---
+ 
+ #### → Menu topo <h4>
  <div <a href="https://ibb.co/bXsxb4n"><img src="https://i.ibb.co/tDqSL05/Screen-Shot-2021-09-24-at-20-32-51.png" alt="Screen-Shot-2021-09-24-at-20-32-51" border="0"></a></div>
+ 
+ ---
+ 
+ #### → Listagem dos filmes por sessão <h4>
   <div <a href="https://ibb.co/bXsxb4n"><img src="https://i.postimg.cc/hjS5wpWH/Screen-Shot-2021-09-24-at-21-11-17.png" alt="Screen-Shot-2021-09-24-at-20-32-51" border="0"></a></div>
-
+  
+ ---
+  
+  #### → Rodapé <h4>
   <div <a href="https://ibb.co/bXsxb4n"><img src="https://i.postimg.cc/4xV2xrXD/Screen-Shot-2021-09-24-at-21-10-46.png" alt="Screen-Shot-2021-09-24-at-20-32-51" border="0"></a></div>
 
-
-
-
+---
 
 
 # Getting Started with Create React App
