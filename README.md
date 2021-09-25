@@ -1,6 +1,6 @@
  # Netflix Estudo de Caso <h1>
  
- <p align="justify">Olá pessoal, este projeto foi desenvolvido com a principal finalidade o estudo das tecnologias React, JavaScript, CSS e também o consumo de APIs para os exibição dos filmes e séries, foi um processo bem interessante onde diversos componentes e ações que temos na Netflix as vezes passam desapercebido, e quando botamos a mão na massa é possivel notar a complexidade em realizar tal ação <h3>
+ <p align="justify">Olá pessoal, este projeto foi desenvolvido com o principal intuito o estudo das tecnologias React, JavaScript, CSS e também o consumo de APIs para os exibição dos filmes e séries, foi um processo bem interessante onde pude notar diversos componentes e ações que temos atualmente na Netflix e que as vezes passam desapercebido, já quando botamos a mão na massa vemos os detalhes e é possivel notar a complexidade em realizar determinadas ações <h3>
 </p>
  
  
